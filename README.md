@@ -1,7 +1,7 @@
 # Chatbot-Error404
 > This repository has been created for hackathon **Hack Zero To One v2.0**
 
-![](https://drive.google.com/open?id=1zBCkrtTiu45Zl_4Djbj_mXdbg9f5SS92)
+![](https://scontent.fluh1-1.fna.fbcdn.net/v/t1.0-0/c187.0.901.474a/s526x296/53060099_2307142139514948_4167640765717020672_o.jpg?_nc_cat=111&_nc_ht=scontent.fluh1-1.fna&oh=393ab9bac3930f1989ed70b53b4ea3a1&oe=5CDD2705)
 
 ## Diagnosing diseases by predicting it from symptoms.
 This is an attempt to predict diseases from the given symptoms. 
