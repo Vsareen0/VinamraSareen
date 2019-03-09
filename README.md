@@ -11,8 +11,8 @@ We have planned to work on a chatbot that will provide users information about d
 ## Goals of our project:
 
 - [x] First step is to create a dataset that contains symptoms and diseases.
-- [ ] The next step, is to provide relevant answers based on users queries. For this we will be using diagflow, a human–computer interaction technologies based on natural language conversations.   
-- [ ] People from any area of world will be able to use it [multilingual].
+- [x] The next step, is to provide relevant answers based on users queries. For this we will be using diagflow, a human–computer interaction technologies based on natural language conversations.   
+- [x] People from any area of world will be able to use it [multilingual].
 
 ## Demo : 
 ![](https://pbs.twimg.com/media/D1LnjBnXcAAG5dd.jpg)
