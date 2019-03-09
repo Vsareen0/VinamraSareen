@@ -213,7 +213,7 @@ html, body {
     </div>
 -->
     <input class='form-control btn btn-primary' type='submit' onclick="writeToDatabase();">
-	  <button onclick="writeToDatabase();" class="progress-button" data-style="rotate-side-up" data-perspective="" data-horizontal=""><span class="progress-wrap"><span class="content">Submit</span><span class="progress"><span class="progress-inner notransition" style="width: 0%; opacity: 1;"></span></span></span></button>
+	  <i><p id="form-submitted" style="font-size: 15px;color: aqua" class="text-center">Form submitted successfully</p></i>
 	  </form>
 </div>
     
@@ -257,9 +257,12 @@ html, body {
          email: e,
          pass: p,
     });
-
-}
-	</script>
+		
+	alert("Form has been successfully submitted !");
+	document.getElementById('form-submitted').style.display = "block";
+	window.location.href = "./profile.html";	
+	}
+</script>
 </body>
 
 </html>
